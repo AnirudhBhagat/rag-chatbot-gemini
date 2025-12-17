@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Vector DB
+chroma_db/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store

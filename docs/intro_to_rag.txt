@@ -1,0 +1,19 @@
+Retrieval-Augmented Generation (RAG) Overview
+
+Retrieval-Augmented Generation is a technique that improves large language model responses by grounding them in external data sources. Instead of relying only on model parameters, the system retrieves relevant information from a knowledge base and provides it to the model as context.
+
+Why RAG is Useful
+RAG helps reduce hallucinations by giving the model factual context. It also enables domain-specific applications like customer support bots, internal documentation assistants, or chatbots that answer questions from uploaded documents.
+
+How RAG Works
+1. Ingest documents and convert them into text chunks.
+2. Embed each chunk using an embedding model.
+3. Store embeddings in a vector database.
+4. Take a user question, embed it, and perform similarity search.
+5. Retrieve top chunks and pass them to the language model.
+6. Model generates an answer grounded in retrieved context.
+
+Example Workflow
+User Question → Vector Search → Retrieve Context → LLM Answer
+
+This is just dummy content for testing ingestion. You can replace this later with real documents like PDFs, technical specs, notes, articles, or business data.

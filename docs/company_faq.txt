@@ -1,0 +1,43 @@
+COMPANY NAME - FREQUENTLY ASKED QUESTIONS
+
+--------------------------------------------------
+GENERAL QUESTIONS
+--------------------------------------------------
+
+Q: Do you have any physical store locations?
+A: No, we currently operate exclusively online.
+
+Q: Where can I follow you on social media?
+A: You can connect with us on [Facebook URL], [Twitter URL], and [Instagram URL].
+
+Q: How do I contact customer support?
+A: Please email us at support@companyname.com or use the contact form on our website [Company Website Contact Page URL].
+
+--------------------------------------------------
+ORDERS AND SHIPPING
+--------------------------------------------------
+
+Q: What is your return policy?
+A: We offer a 30-day return policy for most items in new condition. Please see our [Returns Page URL] for full details.
+
+Q: How can I track my order?
+A: Once your order ships, you will receive a tracking number via email. You can use this number on the carrier's website to track your shipment.
+
+Q: Do you ship internationally?
+A: Yes, we offer international shipping to many countries. Shipping costs and times vary by destination.
+
+Q: How long does shipping typically take?
+A: Domestic shipping typically takes 3-5 business days. International shipping can take 7-14 business days.
+
+--------------------------------------------------
+ACCOUNT AND PAYMENT
+--------------------------------------------------
+
+Q: What payment methods do you accept?
+A: We accept major credit cards (Visa, Mastercard, Amex) and PayPal.
+
+Q: How can I reset my password?
+A: You can reset your password by visiting the [Forgot Password Page URL] and entering your email address.
+
+Q: Do you sell gift cards?
+A: Yes, digital gift cards are available for purchase on our website [Gift Card Purchase URL].
